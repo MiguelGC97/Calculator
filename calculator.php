@@ -63,7 +63,7 @@ echo "<script language=javascript> alert(\"Please Enter Correct values.\");</scr
  
 <tr>
 <td></td>
-<td><input type="submit" name="calculate" value="Calculate" style="color:wheat;background-color:rosybrown" /></td>	 
+<td><input type="submit" name="calculate" value="Calcular" style="color:wheat;background-color:rosybrown" /></td>	 
 </tr>
  
 <tr>
